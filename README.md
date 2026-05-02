@@ -205,11 +205,3 @@ sudo docker exec single-node_wazuh.manager_1 /var/ossec/bin/manage_agents -r 001
 
 _(Sau khi chạy lệnh, tải lại trang Dashboard để thấy thay đổi)._
 
----
-
-_Tài liệu được đúc kết từ quá trình thực chiến cấu hình SIEM._
-
-```</TÊN_AGENT></IP_MANAGER>
-
-```
-
