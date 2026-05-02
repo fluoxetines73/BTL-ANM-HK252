@@ -1,4 +1,4 @@
-# BTL-ANM-HK252
+# Triển khai hệ thống thống SIEM sử dụng mã nguồn mở Wazuh
 # I. Triển khai Hệ thống SIEM: Azure VM + Wazuh (Docker) + Telegram Bot Alerts
 Hệ thống SIEM phục vụ cho bài tập lớn được triển khia trên nền tảng máy ảo Azure VM cho phép truy cập linh hoạt và thuận tiện cho các thành viên 
 trong việc vài đặt, theo dõi trạng thái các Agents cũng như triển khai các kịch bản tấn công
